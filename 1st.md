@@ -1,7 +1,6 @@
 # NS-2 Simulation Script
 
-# 1.Implement three node point-to-point networks with duplex links between them for different topologies. Set the queue size, vary the bandwidth, and find the number of packets dropped for various iterations.  
-
+```tcl
 # Create a new simulator instance
 set ns [new Simulator]
 

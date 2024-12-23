@@ -1,5 +1,6 @@
-# NS-2 : Transmission of Ping Messages and Traceroute in a 6-Node Network
+# NS-2 Simulation Script: Transmission of Ping Messages and Traceroute in a 6-Node Network
 
+```tcl
 # Create a new simulator instance
 set ns [new Simulator]
 
